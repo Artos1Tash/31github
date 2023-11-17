@@ -16,3 +16,7 @@ Day 1 : I started the video tutorial. Feeling pretty good
 Day 2 : This day I copied a lot of template code into common.types.ts and tailwind.config.ts 
 <br/>
 Also solved some of the rendering home page problems.
+<br/>
+Day 4:
+Feeling pretty good. Just a bit tired. Started understanding Tailwind CSS, which is actually very easy library. I actually skipped journal for day 3.
+<br/>
