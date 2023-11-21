@@ -6,7 +6,7 @@ that was organized by <strong> @growthhungry </strong> and <strong> @dtaalai </s
 In this project I'll create a simple modern blog application with React.js, Next.js, GraphQL, Typescript and Tailwind CSS.
 
 I'll be following this online [tutorial](https://www.youtube.com/watch?v=986hztrfaSQ) during 31 days.
-[<img src="https://www.nextplc.co.uk/~/media/Images/N/Next-PLC-V2/content-images/image-gallery/logos/next-black-v2-logo.jpg" style="max-width: 100%; height: auto;">
+[<img src="https://www.nextplc.co.uk/~/media/Images/N/Next-PLC-V2/content-images/image-gallery/logos/next-black-v2-logo.jpg" style="max-width: 75%; height: auto; border-radius: 8px;">
 ](https://nextjs.org/)
 
 
@@ -22,3 +22,6 @@ Feeling pretty good. Just a bit tired. Started understanding Tailwind CSS, which
 <br/>
 Day 5-8:
 First problem. I cannot understand why the grafbase doesn't want to deploy my project. Struggling. A lot of stuff coming up this week.
+<br/>
+Day 9:
+Today, I couldn't make the button appear on the screen. I think the problem is because it doesn't know where the folder is, but I'm not sure. A lot of projects are coming soon. I need some rest
