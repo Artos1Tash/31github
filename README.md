@@ -20,3 +20,5 @@ Also solved some of the rendering home page problems.
 Day 4:
 Feeling pretty good. Just a bit tired. Started understanding Tailwind CSS, which is actually very easy library. I actually skipped journal for day 3.
 <br/>
+Day 5-8:
+First problem. I cannot understand why the grafbase doesn't want to deploy my project. Struggling. A lot of stuff coming up this week.
