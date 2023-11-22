@@ -25,3 +25,6 @@ First problem. I cannot understand why the grafbase doesn't want to deploy my pr
 <br/>
 Day 9:
 Today, I couldn't make the button appear on the screen. I think the problem is because it doesn't know where the folder is, but I'm not sure. A lot of projects are coming soon. I need some rest
+<br/>
+Day 10:
+It was a very intensive day. Test, projects and I finally took some rest. I did some programming today, and I want to create AI.
