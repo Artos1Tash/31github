@@ -28,3 +28,6 @@ Today, I couldn't make the button appear on the screen. I think the problem is b
 <br/>
 Day 10:
 It was a very intensive day. Test, projects and I finally took some rest. I did some programming today, and I want to create AI.
+<br/>
+Day 11:
+Project is going difficult. I'll wait 'til I solve the some grafbase problems here and then push the better version on github. The week is almost over.
