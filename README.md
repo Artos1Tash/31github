@@ -30,7 +30,10 @@ Day 10:
 It was a very intensive day. Test, projects and I finally took some rest. I did some programming today, and I want to create AI.
 <br/>
 Day 11:
-Project is going difficult. I'll wait 'til I solve the some grafbase problems here and then push the better version on github. The week is almost over.
+Project is going difficult. I'll wait 'til I solve some grafbase problems here and then push the better version on github. The week is almost over.
 <br/>
 Day: 12
 I didn't do much coding today, but I did the presentations, which went very well. Math is so hard rn.
+<br/>
+Day: 13
+Did a little bit of coding today. Got a new mechanical keyboard. It's even harder to type rn.
