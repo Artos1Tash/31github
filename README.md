@@ -37,3 +37,6 @@ I didn't do much coding today, but I did the presentations, which went very well
 <br/>
 Day: 13
 Did a little bit of coding today. Got a new mechanical keyboard. It's even harder to type rn.
+<br/>
+Day: 14
+It's been 2 weeks since I started this tutorial. It's going pretty hard, but I don't lose hope.
