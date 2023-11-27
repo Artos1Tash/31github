@@ -40,3 +40,7 @@ Did a little bit of coding today. Got a new mechanical keyboard. It's even harde
 <br/>
 Day: 14
 It's been 2 weeks since I started this tutorial. It's going pretty hard, but I don't lose hope.
+<br/>
+Day 15: 
+It's snowing outside. I almost finished the book Alchemist by Paulo Coelho.
+Project is going strange, but I need to continue.
