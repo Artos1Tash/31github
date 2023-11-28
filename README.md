@@ -48,4 +48,7 @@ Project is going strange, but I need to continue.
 Day 16: 
 There are more snow currently. Getting better at typing. I don't have much time for everything, it's getting harder.
 
+<br/>
+Day 17:
+I started CS50 course on Python with my friend. Also asked for the help in this current project.
 
