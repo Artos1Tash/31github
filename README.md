@@ -44,3 +44,8 @@ It's been 2 weeks since I started this tutorial. It's going pretty hard, but I d
 Day 15: 
 It's snowing outside. I almost finished the book Alchemist by Paulo Coelho.
 Project is going strange, but I need to continue.
+<br/>
+Day 16: 
+There are more snow currently. Getting better at typing. I don't have much time for everything, it's getting harder.
+
+
