@@ -51,4 +51,7 @@ There are more snow currently. Getting better at typing. I don't have much time 
 <br/>
 Day 17:
 I started CS50 course on Python with my friend. Also asked for the help in this current project.
+<br/>
+Day 18:
+Couldn't understand why button google doens't show up on the main page in Navbar file. Interesting.
 
