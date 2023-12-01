@@ -54,4 +54,7 @@ I started CS50 course on Python with my friend. Also asked for the help in this 
 <br/>
 Day 18:
 Couldn't understand why button google doens't show up on the main page in Navbar file. Interesting.
+<br/>
+Day 19:
+Ooh, so tired. Soon there's going to be a financial literacy competition. I started preparing fot it. Takes time, but it's more important right now in this situation.
 
