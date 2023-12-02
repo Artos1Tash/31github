@@ -57,4 +57,7 @@ Couldn't understand why button google doens't show up on the main page in Navbar
 <br/>
 Day 19:
 Ooh, so tired. Soon there's going to be a financial literacy competition. I started preparing fot it. Takes time, but it's more important right now in this situation.
+<br/>
+Day 20:
+Training, swimming pool and chores. Planning to go to live music today. Preparing myself for competition.
 
