@@ -1,4 +1,13 @@
-import { g, config } from "@grafbase/sdk";
+import { g, config, connector } from "@grafbase/sdk";
+
+const contentful = connector.GraphQL("Contentful", {
+  url: g.env("CONTENTFUL_API_URL"),
+  headers: (headers) => {
+    headers.set("Authorization", `Bearer ${g.env("CONTENTFUL_API_KEY")}`);
+  },
+});
+
+g.datasource(contentful);
 
 const User = g.model("User", {
   name: g.string().length({ min: 2, max: 20 }),

@@ -63,3 +63,7 @@ Training, swimming pool and chores. Planning to go to live music today. Preparin
 <br/>
 Day 21:
 Trying to fix the problem. Not succesfully.
+<br/>
+Day 22:
+Got an idea for solving the grafbase problem with the connectors. I will try to use connectors like GraphQl or MongoDB. Thanks for that to certain good people.
+
