@@ -67,3 +67,6 @@ Trying to fix the problem. Not succesfully.
 Day 22:
 Got an idea for solving the grafbase problem with the connectors. I will try to use connectors like GraphQl or MongoDB. Thanks for that to certain good people.
 
+<br/>
+Day 23:
+Applying what I learned today at CS club.
