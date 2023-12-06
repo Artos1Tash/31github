@@ -70,3 +70,6 @@ Got an idea for solving the grafbase problem with the connectors. I will try to 
 <br/>
 Day 23:
 Applying what I learned today at CS club.
+<br/>
+Day 24:
+Trying add MongoDB to the project. So confusing.
