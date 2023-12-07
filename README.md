@@ -73,3 +73,7 @@ Applying what I learned today at CS club.
 <br/>
 Day 24:
 Trying add MongoDB to the project. So confusing.
+<br/>
+Day 25:
+I wrote a financial literacy competition. Feels difficult. But it's only beginning
+
