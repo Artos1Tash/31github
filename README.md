@@ -76,4 +76,7 @@ Trying add MongoDB to the project. So confusing.
 <br/>
 Day 25:
 I wrote a financial literacy competition. Feels difficult. But it's only beginning
+<br/>
+Day 26:
+Only 5 days left. Practicing on Leetcode. I want to learn C and Rust.
 
