@@ -82,4 +82,7 @@ Only 5 days left. Practicing on Leetcode. I want to learn C and Rust.
 <br/>
 Day 27:
 Doing some sports, reading books going swimming with father. Nothing much. Just an ordinary weekends.
+<br/>
+Day 28:
+Planning to learn c programming language. Found some ideas for projects on c.
 
