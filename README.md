@@ -85,4 +85,6 @@ Doing some sports, reading books going swimming with father. Nothing much. Just 
 <br/>
 Day 28:
 Planning to learn c programming language. Found some ideas for projects on c.
-
+<br/>
+Day 29:
+Started learning c programming language. Talked with friends about dissasemblers.
