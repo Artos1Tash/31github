@@ -88,3 +88,6 @@ Planning to learn c programming language. Found some ideas for projects on c.
 <br/>
 Day 29:
 Started learning c programming language. Talked with friends about dissasemblers.
+<br/>
+Day 30:
+Second last day of the project. I couldn't setup MongoDB, that's the problem. The project didn't go as planned.
