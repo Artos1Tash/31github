@@ -91,3 +91,7 @@ Started learning c programming language. Talked with friends about dissasemblers
 <br/>
 Day 30:
 Second last day of the project. I couldn't setup MongoDB, that's the problem. The project didn't go as planned.
+<br/>
+Day 31:
+Last day of the challenge. I'm just happy that I finished it. Planning on continuing learning CS, algorithms and C programming language.
+
